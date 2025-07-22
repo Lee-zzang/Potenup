@@ -1,0 +1,30 @@
+[project]
+name = "potenup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "folium>=0.20.0",
+    "google-api-python-client>=2.176.0",
+    "jpype1>=1.6.0",
+    "jupyter>=1.1.1",
+    "kiwi>=10.2.27",
+    "kiwipiepy>=0.21.0",
+    "konlpy>=0.6.0",
+    "koreanize-matplotlib>=0.1.1",
+    "matplotlib>=3.10.3",
+    "mlxtend>=0.23.4",
+    "network>=0.1",
+    "networks>=0.3.7",
+    "networkx>=3.4.2",
+    "numpy>=2.2.6",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.1",
+    "pillow>=11.3.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+    "scikit-learn>=1.7.0",
+    "seaborn>=0.13.2",
+    "wordcloud>=1.9.4",
+]
